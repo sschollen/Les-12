@@ -1,0 +1,126 @@
+/* Header */
+header {
+width: 100%;
+background-color: #000;
+color: #ccc;
+text-align: center;
+padding: 10px;
+height: 100px;
+}
+
+/*Table */
+table {
+border: 1px solid #000000;
+border-collapse: collapse;
+width: 100%;
+text-align: center;  
+}
+
+td {
+border: 2px solid #585858;
+}
+
+#cell1 {
+    background-color: red; 
+}
+
+#cell2 {
+    background-color: blue;
+}
+
+#cell3 {
+    background-color: blueviolet;
+}
+
+#cell4 {
+    background-color: burlywood;
+}
+
+#cell5 {
+    background-color: yellowgreen;
+}
+
+#cell6 {
+    background-color: greenyellow;
+}
+
+#cell7 {
+    background-color: goldenrod;
+}
+
+#cell8 {
+    background-color: green;
+}
+
+#cell9 {
+    background-color: purple;
+}
+
+#cell10 {
+    background-color: orchid;
+}
+
+#cell11 {
+    background-color: orangered;
+}
+
+#cell12 {
+    background-color: mediumturquoise;
+}
+
+#cell13 {
+    background-color: palevioletred;
+}
+
+#cell14 {
+    background-color: darkcyan;
+}
+
+#cell15 {
+    background-color: lightsalmon;
+}
+
+#cell16 {
+    background-color: blanchedalmond;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.pink {
+    background-color: pink;
+}
+
+.purple {
+    background-color: purple;
+}
+
+.lightblue {
+    background-color: lightblue;
+}
+
+/*Footer */
+footer {
+width: 100%;
+background-color: #77aec4;
+text-align: center;
+padding: 10px;
+height: 100px;
+}
